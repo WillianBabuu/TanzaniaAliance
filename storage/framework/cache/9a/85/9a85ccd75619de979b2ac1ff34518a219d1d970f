@@ -1,0 +1,161 @@
+1569690603a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:3325:"description = "Default layout"
+==
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tanzania Alliance - {{ this.page.title }}</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="author" content="OctoberCMS">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="generator" content="OctoberCMS">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">
+        <link href="{{ 'assets/css/vendor.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/css/theme.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/style.css'|theme }}" rel="stylesheet">
+        {% styles %}
+    </head>
+    <body>
+    <div class="preloader d-flex align-items-center justify-content-center">
+    <div class="spinner"></div>
+      </div>
+
+        <!-- Header -->
+        <header id="layout-header">
+            {% partial 'site/header' %}
+        </header>
+
+        <!-- Content -->
+        <section id="layout-content">
+            {% page %}
+        </section>
+
+        <!-- Footer -->
+        <footer id="layout-footer">
+            {% partial 'site/footer' %}
+        </footer>
+        <!-- jquery 2.2.4  -->
+  <!-- <script src="js/jquery.min.js"></script>
+  Popper js
+  <script src="js/popper.min.js"></script>
+  Bootstrap js
+  <script src="js/bootstrap.min.js"></script>
+  Owl Carousel js
+  <script src="js/owl.carousel.min.js"></script>
+  Classynav
+  <script src="js/classynav.js"></script>
+  Wow js
+  <script src="js/wow.min.js"></script>
+  Sticky js
+  <script src="js/jquery.sticky.js"></script>
+  Magnific Popup js
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  Scrollup js
+  <script src="js/jquery.scrollup.min.js"></script>
+  Jarallax js
+  <script src="js/jarallax.min.js"></script>
+  Jarallax Video js
+  <script src="js/jarallax-video.min.js"></script>
+  Active js
+  <script src="js/active.js"></script> -->
+
+        <!-- Scripts -->
+        <script src="{{ 'assets/vendor/jquery.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/propper.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/bootstrap.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/owl.carousel.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/classynav.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/wow.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jquery.sticky.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jquery.magnific-popup.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jquery.scrollup.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jarallax.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jarallax-video.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/active.js'|theme }}"></script>
+        {% framework extras %}
+        {% scripts %}
+
+    </body>
+</html>";s:5:"mtime";i:1567241752;s:6:"markup";s:3291:"<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tanzania Alliance - {{ this.page.title }}</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="author" content="OctoberCMS">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="generator" content="OctoberCMS">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">
+        <link href="{{ 'assets/css/vendor.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/css/theme.css'|theme }}" rel="stylesheet">
+        <link href="{{ 'assets/style.css'|theme }}" rel="stylesheet">
+        {% styles %}
+    </head>
+    <body>
+    <div class="preloader d-flex align-items-center justify-content-center">
+    <div class="spinner"></div>
+      </div>
+
+        <!-- Header -->
+        <header id="layout-header">
+            {% partial 'site/header' %}
+        </header>
+
+        <!-- Content -->
+        <section id="layout-content">
+            {% page %}
+        </section>
+
+        <!-- Footer -->
+        <footer id="layout-footer">
+            {% partial 'site/footer' %}
+        </footer>
+        <!-- jquery 2.2.4  -->
+  <!-- <script src="js/jquery.min.js"></script>
+  Popper js
+  <script src="js/popper.min.js"></script>
+  Bootstrap js
+  <script src="js/bootstrap.min.js"></script>
+  Owl Carousel js
+  <script src="js/owl.carousel.min.js"></script>
+  Classynav
+  <script src="js/classynav.js"></script>
+  Wow js
+  <script src="js/wow.min.js"></script>
+  Sticky js
+  <script src="js/jquery.sticky.js"></script>
+  Magnific Popup js
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  Scrollup js
+  <script src="js/jquery.scrollup.min.js"></script>
+  Jarallax js
+  <script src="js/jarallax.min.js"></script>
+  Jarallax Video js
+  <script src="js/jarallax-video.min.js"></script>
+  Active js
+  <script src="js/active.js"></script> -->
+
+        <!-- Scripts -->
+        <script src="{{ 'assets/vendor/jquery.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/propper.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/bootstrap.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/owl.carousel.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/classynav.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/wow.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jquery.sticky.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jquery.magnific-popup.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jquery.scrollup.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jarallax.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/jarallax-video.min.js'|theme }}"></script>
+        <script src="{{ 'assets/vendor/active.js'|theme }}"></script>
+        {% framework extras %}
+        {% scripts %}
+
+    </body>
+</html>";s:4:"code";N;s:11:"description";s:14:"Default layout";}}
